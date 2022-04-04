@@ -7,6 +7,7 @@ struct SomeData {
 }
 
 
+
 impl SomeData {
 
 	pub fn new() -> SomeData {
